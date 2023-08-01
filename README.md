@@ -1,1 +1,1 @@
-# stu-db
+# Please see my wiki for details on this project!
