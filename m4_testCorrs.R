@@ -156,10 +156,5 @@ corrplot(rawcormat, method="color", col=col(200), # scale colors (made it so smo
          mar=c(0,2,4,2)  # margin to fix title position
          )
 
-
-# experimenting with adding p
-
-
-
 # end
 detach(students)
